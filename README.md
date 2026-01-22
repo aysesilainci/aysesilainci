@@ -1,3 +1,4 @@
+AI • Data • Backend Engineer
 # 💫 Hakkımda:
 
 Merhaba! Ben **Ayşe Sıla İnci** 👋  
@@ -31,6 +32,45 @@ Yeni teknolojileri öğrenmeye açık, üretken ve araştırmayı seven biriyim.
 
 ---
 
+🧠 Uzmanlık Alanlarım
+🔹 Yapay Zeka & Veri Bilimi
+
+Görüntü İşleme (OpenCV, Python)
+
+Doğal Dil İşleme (NLP)
+
+RAG (LLM + Vector Store + Retrieval)
+
+Makine Öğrenmesi (Scikit-learn)
+
+Veri Analizi & Feature Engineering (Pandas, NumPy)
+
+🔹 Backend & Sistem Geliştirme
+
+Django
+
+RESTful API Tasarımı
+
+Docker & Docker Compose
+
+Git & GitHub Workflow
+
+🔹 Veritabanı & Büyük Veri
+
+MongoDB (NoSQL)
+
+PostgreSQL (İlişkisel DB)
+
+Hadoop (Büyük Veri Temelleri)
+
+🔹 Analiz & Görselleştirme
+
+Power BI
+
+Excel
+
+Jupyter Notebook
+
 ## 📊 GitHub İstatistiklerim:
 
 ![](https://github-readme-stats.vercel.app/api?username=aysesilainci&theme=tokyonight&show_icons=true&count_private=true)  
@@ -38,12 +78,17 @@ Yeni teknolojileri öğrenmeye açık, üretken ve araştırmayı seven biriyim.
 
 ---
 
-## ✨ Neler Yaparım?
+Ne Üretiyorum?
 
-- 📌 Web tabanlı uygulamalar geliştiririm  
-- 📊 Verileri işler, sadeleştirir, anlamlı hale getiririm  
-- 🧠 Öğrendiklerimi projeye dökmekten keyif alırım  
-- 📁 Takip edilebilir, düzenli kod yazmaya özen gösteririm
+🤖 Yapay zeka destekli uygulamalar
+
+🖼️ Görüntü ve metin verisi analizi
+
+🔍 RAG tabanlı akıllı bilgi erişim sistemleri
+
+⚙️ Backend + veritabanı entegre mimariler
+
+📦 Docker ile taşınabilir projeler
 
 ---
 
